@@ -1,0 +1,40 @@
+c:\users\miguel cauzor\documents\visual studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe.config
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.pdb
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmcategoria.resources
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmFavoritos.resources
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmmenu.resources
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmPagina_web.resources
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.Properties.Resources.resources
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.csproj.GenerateResource.Cache
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.exe
+C:\Users\Miguel Cauzor\Documents\Visual Studio 2013\Projects\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.pdb
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe.config
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.exe
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.pdb
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.pdb
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.csprojResolveAssemblyReference.cache
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmcategoria.resources
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmmenu.resources
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmPagina_web.resources
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.Properties.Resources.resources
+C:\Users\Octavio\Downloads\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.csproj.GenerateResource.Cache
+E:\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe.config
+E:\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.exe
+E:\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.pdb
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe.config
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.exe
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.pdb
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.pdb
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.csprojResolveAssemblyReference.cache
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmcategoria.resources
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmmenu.resources
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.frmPagina_web.resources
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto_organizacion_de_archivos.Properties.Resources.resources
+E:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.csproj.GenerateResource.Cache
+F:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\bin\Debug\proyecto organizacion de archivos.exe.config
+F:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.exe
+F:\administracion y organizacion de datos\proyecto organizacion de archivos\proyecto organizacion de archivos\obj\Debug\proyecto organizacion de archivos.pdb

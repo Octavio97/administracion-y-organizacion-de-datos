@@ -1,0 +1,44 @@
+c:\users\usuario\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Miguel Cauzor\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Equipos.resources
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jugadores.resources
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Liga.resources
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Partido.resources
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Equipos.resources
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jugadores.resources
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Liga.resources
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Datos.resources
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Datos.resources
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Agregar.resources
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Agregar.resources
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+E:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+F:\administracion y organizacion de datos\Proyecto final sportplus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
